@@ -12,20 +12,16 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 925fee7b2807a340d2b4d0e1e9aa4ca069875f84
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-groups"></a>Was sind Gruppen?
 
-Verwenden Sie _Gruppen_ zum Verwalten von Benutzern, apps und Geräte in Intune Education. Sie können Benutzern oder Geräten zusammen, ohne dass jedes Gerät einzeln verwaltet gruppieren. Dadurch können Sie problemlos apps oder Einstellungen für eine große Anzahl von Benutzern und Geräten zuweisen.
+Verwenden Sie _Gruppen_ zum Verwalten von Benutzern, apps und Geräte in Intune Education. Sie können Benutzer oder Geräte in Gruppen zusammenfassen, statt sie jeweils einzeln verwalten zu müssen. So können Sie Apps und Einstellungen leicht einer großen Menge von Benutzern und Geräten zuweisen.
 
 Wenn Sie Gruppen erstellen, erwägen Sie, wie Sie die Einstellungen und apps für Benutzer und Geräte angewendet werden. Beispielsweise müssen Sie apps mithilfe von Standortdiensten für alle Geräte zu blockieren. Eine Alternative besteht, wie bestimmte Gruppen möglicherweise bestimmte Aspekte, z. B. Vergabe Studenten dauert [AP Informatik](https://www.tealsk12.org) apps auf ihren Code zu bearbeiten.
 
@@ -91,4 +87,3 @@ Wenn Sie eine Gruppe löschen, entfernt Intune Education die Auflistung von apps
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über die vollständige Gruppen Verwaltungsoberfläche in Intune](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 7b5343d996868ceaf18a58812a4db14d626d2969
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>Wie füge ich Intune Education Geräte hinzu?
 
 Nach dem Einrichten von Intune Education mit Ihren Informationen haben – z. B. Studentendatensätze, apps und Einstellungen für Geräte – müssen Sie die Geräte mit Intune Education verbinden. Diese Datenbank als Teil des Setupvorgangs für neue Windows 10-Geräte möglich.
@@ -52,4 +48,3 @@ Eine weitere Möglichkeit zum Registrieren von Geräten erfolgt über die [freie
 ## <a name="find-out-more"></a>Weitere Informationen
 - [Erfahren Sie mehr über die **School-PCs einrichten** app](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)
 - [Erfahren Sie mehr über die vollständige Erfahrung, die zum Hinzufügen von Geräten in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)
-

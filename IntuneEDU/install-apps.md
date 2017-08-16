@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: da398a88d1038d4e43a1a1e7a5df37018ac3f3a6
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>Wie installiere ich apps mit Intune Education?
 
 Installieren von apps auf Windows 10-Geräte eine der die Methoden, mit denen Intune Education erhalten Ihre Benutzer kann mehr erfolgt. Apps werden auf Geräten installiert, nach einer Gruppe zugewiesen wird. Einige gängige apps standardmäßig verfügbar sind, aber wenn Sie nicht von die app, die Sie zuweisen möchten, müssen Sie [Intune Education hinzugefügt](how-to-add-apps.md) damit zugewiesen werden können.
@@ -56,4 +52,3 @@ Diese Methode können Sie eine app auswählen und auf eine oder mehrere Gruppen 
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über das Installieren von apps mithilfe der Verwaltungsoberfläche vollständigen app in Intune](https://docs.microsoft.com/intune/deploy-use/deploy-apps)
-

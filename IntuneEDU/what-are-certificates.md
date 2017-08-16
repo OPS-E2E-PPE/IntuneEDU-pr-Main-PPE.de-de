@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 8047f6c1-f8aa-465f-8800-02ac318d6a84
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d0590c81bb27641721ff4ef8ae4ab7f0d024a20b
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-certificates"></a>Was sind Zertifikate?
 
 Die [Kryptografie](https://technet.microsoft.com/library/cc962030.aspx) ist die Wissenschaft der Verschlüsselung von Informationen. Traditionell wird Kryptografie zur Weitergabe codierter Nachrichten verwendet, um [sicherzustellen, dass die Kommunikation geheim bleibt](https://technet.microsoft.com/library/cc962019.aspx). In ihrer einfachsten Form werden bei der Kryptografie Buchstaben ersetzt oder vertauscht, um eine nicht lesbare, unverständliche oder verborgene Nachricht zu erstellen. Nur jemand mit einem Decodierungsschlüssel bzw. _Zertifikat_ kann die codierte Nachricht wieder in ihre ursprüngliche, lesbare Form umwandeln.
@@ -34,4 +30,3 @@ Zertifikatverwaltung ist nicht über Intune für Education Portal verfügbar. Ma
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über die vollständige Erfahrung mit dem Verwalten von Zertifikaten mit Intune](https://docs.microsoft.com/intune/deploy-use/secure-resource-access-with-certificate-profiles)
-

@@ -12,19 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 .md#ms.tgt_pltfrm: 
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: a8a9619476315459d49dc128e14c3bc0f2f7794e
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-manage-settings"></a>Wie verwalte ich Einstellungen?
 
 Sie können eine Vielzahl von Einstellungen für Ihre Benutzer, apps und Geräte mit Intune verwalten. Es ist, wie Sie ändern, wie Geräte auf Benutzeraktionen reagieren können.
@@ -73,4 +68,3 @@ Esperanza ist z. B. ein Mitglied der *6. Grade* gruppieren und ist auch Mitglied
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über die Verwaltungsoberfläche vollständigen Richtlinie in Intune](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
-

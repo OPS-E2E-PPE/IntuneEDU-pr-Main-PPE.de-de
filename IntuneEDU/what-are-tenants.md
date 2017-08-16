@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 54c063880ff3861cdee702ef6727e828af7a7c5d
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-tenants"></a>Was sind Mandanten?
 
 Ihre _Mandanten_ Ihrer Organisation vollständige Intune Education-Instanz ist. Ändern von Dinge an den mandantenstandorten nicht wirken sich auf eine einzelne Gruppe oder sogar eine große Gruppe wie **aller Studenten**. Diese Änderungen wirken sich auf jedem Gerät unter Verwaltung und jeder Person in Ihrer Organisation, die mit diesen Geräten und Ihrer gesamten-Abonnement und für alle Ihre Lizenzen.
@@ -42,4 +38,3 @@ Mandanteneinstellungen sind auch die, in dem Sie eine Synchronisierung zwischen 
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über das Einrichten einer rollenbasierten Zugriff in der zur vollständigen Verwaltung in Intune](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="available-settings-for-intune-for-education"></a>Verfügbare Einstellungen für Intune Education
 
 Konfigurieren der Einstellungen ist eine der wichtigsten Methoden, die können Sie Ihre Windows 10-Geräte zu sichern und erstellen die richtigen Arten des Zugriffs auf das Learning zu verbessern. Intune Education bietet viele weitere Einstellungen, mit die Sie diese Oberflächen, sowohl für einzelne Gruppen und ihrer Untergruppen anpassen können.
@@ -80,7 +76,7 @@ Viele der Informationen in den **wozu** Spalte kann auch in der Intune für Educ
 |Search-Vorschläge|Block Rand von möglichen Websites vorgeschlagen, während der Eingabe von eines Begriffs suchen oder die URL.|
 |Intranetdatenverkehr in Internet Explorer|Wenn auf "Blockieren" festgelegt ist, wird interner Datenverkehr Rand anstelle von Internet Explorer gesendet.|
 |JavaScript|Verhindern Sie, dass JavaScript im Edge ausgeführt.|
-|Standard-Suchmodul|Wählen Sie Bing, Yahoo oder Google als Standard-Suchmaschine für Microsoft Edge. Wenn eine benutzerdefinierte Suchmodul bereitgestellt, in der vollständigen Intune zur Sie oder ein anderer Administrator eingerichtet hat, können Sie diese benutzerdefinierte Suchmodul bereitgestellt als Standard Hier definieren.|
+|Standardsuchmodul|Wählen Sie Bing, Yahoo oder Google als Standard-Suchmaschine für Microsoft Edge. Wenn eine benutzerdefinierte Suchmodul bereitgestellt, in der vollständigen Intune zur Sie oder ein anderer Administrator eingerichtet hat, können Sie diese benutzerdefinierte Suchmodul bereitgestellt als Standard Hier definieren.|
 |Konfigurieren von Microsoft Edge-homepages|Wählen Sie, was auf Startseiten öffnen Sie jedes Mal, wenn jemand eine neue Sitzung, die mit Microsoft Edge durchsuchen beginnt.|
 |Konfigurieren von Microsoft Edge-Favoriten|Wählen Sie die Websites im Microsoft Edge-Favoritenliste angezeigt werden.|
 |Block Favoriten bearbeiten|Blockieren Sie Bearbeiten von Edge-Browser-Favoriten für Benutzer.|
@@ -232,4 +228,3 @@ Verwenden Sie diese Einstellungen so aktualisieren Sie die Geräte in dieser Gru
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über die vollständige Windows 10-Einstellungen Verwaltungsoberfläche in Intune verfügbaren](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
-

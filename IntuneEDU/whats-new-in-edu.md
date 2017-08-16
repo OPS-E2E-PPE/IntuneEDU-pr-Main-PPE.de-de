@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 1472efb4acedda7b25292b7ed41fc7e0ae1d2c14
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="whats-new-in-intune-for-education"></a>Neuheiten in Intune für Bildungseinrichtungen
 Erfahren Sie in dieser Version von Intune Education Neuigkeiten. Sie erhalten auch Informationen über bevorstehende Änderungen, die Sie einplanen sollten, sowie über vergangene Releases.
 
@@ -36,4 +32,3 @@ Wir haben die Intune für die Bildung Portal gestartet. Intune Education ist ein
 
 - [Erfahren Sie mehr über Intune für Bildungseinrichtungen](what-is-intune-for-education.md)
 - [Erfahren Sie mehr über die Verwaltungsoberfläche vollständigen Gerät mit Intune](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

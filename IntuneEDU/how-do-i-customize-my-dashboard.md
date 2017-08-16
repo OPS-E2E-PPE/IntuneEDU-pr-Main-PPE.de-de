@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-customize-my-dashboard"></a>Wie passe ich mein Dashboard an?
 
 Ihre _Dashboard_ die hauptstartseite für Intune Education ist. Es ist, in dem Sie gestartet wird, jedes Mal, wenn Sie das Verwaltungsportal zum Verwalten Ihrer Benutzer, apps und Geräte anmelden.
@@ -57,4 +53,3 @@ Sie können auch die Randleiste ausblenden, indem Sie auswählen der __Menüscha
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über die vollständige Verwaltungsfunktionen der Intune Gerät](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

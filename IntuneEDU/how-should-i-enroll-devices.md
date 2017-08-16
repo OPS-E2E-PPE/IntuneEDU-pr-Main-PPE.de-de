@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9c3a2dbcb3412e52eff99d92f4a0560a5122e2f7
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-should-i-enroll-devices"></a>Wie sollte ich Geräte registrieren?
 
 Es gibt einige Möglichkeiten, dass Sie bei der Verwaltung von Intune Education Geräte registrieren können. Können Sie alle austauschbar, aber möglicherweise einige sinnvoller basierend auf der Größe Ihrer Region, Anzahl der Mitarbeiter und helfen, registrieren und wer die Geräte empfangen wird. Sie könnten z. B. Lehrer Geben Sie ihre Geräte und informieren sie Sie über die Geräte sich registrieren, während Sie eine schnellere Route zum Registrieren von Hunderten von Geräten, die mit einem USB-Schlüssel einrichten konnte.
@@ -37,4 +33,3 @@ Es gibt einige Möglichkeiten, dass Sie bei der Verwaltung von Intune Education 
 
 - [Herunterladen der **School-PCs einrichten** app aus dem Microsoft Store](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)
 - [Erfahren Sie mehr über das Einrichten der Windows-Geräte für Bildungseinrichtungen](https://docs.microsoft.com/education/windows/set-up-windows-10)
-

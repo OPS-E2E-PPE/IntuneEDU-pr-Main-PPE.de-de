@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d703fdc5667b3042a8d97a59e6c8525530103132
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="get-started-with-intune-for-education"></a>Erste Schritte mit Intune Education
 
 Zum Einrichten von Intune für die Bildung die Student "und" Lehrer-Informationen konfigurieren, und Studenten, Lehrer und Gerät verwalten. Der erste Schritt ist zum Abrufen Ihrer Daten Student "und" Lehrer in Intune Education, ordnen Sie die apps oder Einstellungen für Gruppen von SSL. Nach dem Einrichten der Einstellungen, die Sie für Ihre Geräte verwenden möchten, wird Sie auf Geräte angewendet werden und gestartet, sodass sie auch unter Verwaltung verwendet werden.
@@ -41,4 +37,3 @@ Eine einfache Möglichkeit zum Starten der Verwendung von Intune Education beste
 - [Erfahren Sie mehr über die Mandanten-Ebene Aufgaben in Intune für die Bildung](what-are-tenants.md)
 - [Erfahren Sie mehr zu den ersten Schritten mit der vollständigen-verwaltungserfahrung in Intune](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
 - [Erfahren Sie mehr über das Verwalten von Gruppen in Azure AD](https://docs.microsoft.com/azure/active-directory/active-directory-groups-create-azure-portal)
-

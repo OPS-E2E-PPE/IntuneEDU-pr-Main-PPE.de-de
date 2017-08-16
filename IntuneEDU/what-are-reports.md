@@ -12,18 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 ms.reviewer: travisj
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: b1a7a0a574982a48f46559ae0577e6663491b8b3
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-reports-in-intune-for-education"></a>Was sind Berichte in Intune für die Bildung?
 
 Intune Education bietet Berichte, mit die Sie bestimmte Aktivitäten von Geräten und apps mit Intune Education verwaltet anzeigen können. Sie können diese Berichte sind sie offline zu überprüfen.
@@ -56,4 +52,3 @@ Sie können Intune auch für Education-Berichten herunterladen. In der [Intune E
 
 - [Erfahren Sie mehr über das vollständige berichtsverhalten in Intune](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
 - [Erfahren Sie mehr über die berichterstellung mithilfe von Microsoft Graph](https://developer.microsoft.com/graph/docs/overview/overview)
-

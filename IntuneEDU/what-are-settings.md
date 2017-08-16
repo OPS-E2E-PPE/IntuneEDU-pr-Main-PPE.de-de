@@ -12,18 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: c7308ab88970c335a0c43d20f4558a54c9143fd9
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-settings"></a>Was sind Einstellungen?
 
 _Einstellungen_ sind, was Sie verwenden, um die definieren, wie Ihre Benutzer mit ihren Geräten arbeiten können. Dies kann entweder ändern, wie das Gerät für einen Benutzer, bei dem Versuch, die Maßnahmen ergreifen, oder indem Sie einfach einen Benutzer aus Aktionen, die auf einem Gerät beenden geantwortet werden soll. Intune für die Bildung Einstellungen können Sie Funktionen auf School-Geräte verwalten.
@@ -45,4 +40,3 @@ Einstellungen können einrichten und für Benutzer und Geräte über Gruppen zug
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über das Schützen von apps und Daten mit der vollständigen Verwaltungsoberfläche in Intune](https://docs.microsoft.com/intune/deploy-use/protect-apps-and-data-with-microsoft-intune)
-

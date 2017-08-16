@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a8c442fb1388a301d0eacf34bbf60602f61b4dbf
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-use-take-a-test-profiles"></a>Wie verwende ich führen einen Test Profile?
 
 _Nehmen Sie eine Test-Profile_ dienen, um es einfach, damit Sie Fach und summative Bewertungen über Ihre Windows 10-Geräte verwalten können. Führen Sie einen Test erstellt die richtige Umgebung zum Erstellen eines Tests:
@@ -57,4 +53,3 @@ Sobald eine Take ein Testprofil erstellt wurde, Sie in die Details Einsicht bei 
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Erfahren Sie mehr über führen einen Test](https://technet.microsoft.com/edu/windows/take-tests-in-windows-10)
-

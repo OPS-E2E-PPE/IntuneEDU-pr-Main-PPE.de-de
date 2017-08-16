@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 388e4f4468c3184d4dd941c74f8524a6302694f3
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-settings-inheritance"></a>Was ist die Vererbung der Einstellungen?
 
 Einstellungen werden auf Gruppen angewendet. Da Gruppen als eingerichtet sind, werden Hierarchien mit einer Gruppe über ein anderes, alle Einstellungen für eine Gruppe von alle Untergruppen geerbt. Dies erleichtert die Einstellungen auf größere Gruppen von Benutzern, apps und Geräten anwenden.
@@ -44,4 +40,3 @@ Betrachten Sie eine Untergruppe *zwölften Grade AP Informatik*, zur Gruppe *zw�
 ## <a name="find-out-more"></a>Weitere Informationen
 
   - [Finden Sie heraus, die mehr über die vollständige Gruppen auftreten, in Intune](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

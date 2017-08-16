@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a593eefcc965537949ec57f6a325d25859801355
-ms.contentlocale: de-de
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>Was sind Geräteregistrierungs-Manager in Intune für die Bildung?
 
 Registrieren von großen Anzahl von Geräten mithilfe von Intune Education kann mit einer einzelnen oder nur wenige, Benutzerkonten erfolgen. Die _Geräteregistrierungs-Manager_ ist ein besonderes Benutzerkonto, das bis zu 1.000 Geräte registrieren kann. Sie schalten einen vorhandenen Benutzer, und machen sie ein Geräteregistrierungs-Manager diese spezielle Registrierungsfunktionen gewähren.
@@ -46,4 +42,3 @@ Obwohl dieser Benutzer nicht mehr ein Geräteregistrierungs-Manager ist, bleibt 
 ## <a name="find-out-more"></a>Weitere Informationen
 
 - [Finden Sie heraus, die auftreten, mehr über die vollständige Geräteregistrierungs-Manager in Intune](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)
-
