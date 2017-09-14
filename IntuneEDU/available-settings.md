@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 08/16/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
-ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: 2e9d06366142f7adce5eff9454c85cab62165c46
+ms.sourcegitcommit: f4fb37302cb3c927196958c33e7215f7827bfcb3
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 09/14/2017
 ---
 # <a name="available-settings-for-intune-for-education"></a>Verfügbare Einstellungen für Intune Education
 
@@ -76,7 +76,7 @@ Viele der Informationen in den **wozu** Spalte kann auch in der Intune für Educ
 |Search-Vorschläge|Block Rand von möglichen Websites vorgeschlagen, während der Eingabe von eines Begriffs suchen oder die URL.|
 |Intranetdatenverkehr in Internet Explorer|Wenn auf "Blockieren" festgelegt ist, wird interner Datenverkehr Rand anstelle von Internet Explorer gesendet.|
 |JavaScript|Verhindern Sie, dass JavaScript im Edge ausgeführt.|
-|Standardsuchmodul|Wählen Sie Bing, Yahoo oder Google als Standard-Suchmaschine für Microsoft Edge. Wenn eine benutzerdefinierte Suchmodul bereitgestellt, in der vollständigen Intune zur Sie oder ein anderer Administrator eingerichtet hat, können Sie diese benutzerdefinierte Suchmodul bereitgestellt als Standard Hier definieren.|
+|Standard-Suchmodul|Wählen Sie Bing, Yahoo oder Google als Standard-Suchmaschine für Microsoft Edge. Wenn eine benutzerdefinierte Suchmodul bereitgestellt, in der vollständigen Intune zur Sie oder ein anderer Administrator eingerichtet hat, können Sie diese benutzerdefinierte Suchmodul bereitgestellt als Standard Hier definieren.|
 |Konfigurieren von Microsoft Edge-homepages|Wählen Sie, was auf Startseiten öffnen Sie jedes Mal, wenn jemand eine neue Sitzung, die mit Microsoft Edge durchsuchen beginnt.|
 |Konfigurieren von Microsoft Edge-Favoriten|Wählen Sie die Websites im Microsoft Edge-Favoritenliste angezeigt werden.|
 |Block Favoriten bearbeiten|Blockieren Sie Bearbeiten von Edge-Browser-Favoriten für Benutzer.|
@@ -163,12 +163,31 @@ Viele der Informationen in den **wozu** Spalte kann auch in der Intune für Educ
 
 |Einstellung|Funktion|
 |---|---|
+|< a Name = "removew10apps"</a>Entfernen der integrierten Windows-10-apps|Deinstallieren Sie bestimmte integrierte Windows-apps. Erfahren Sie, was diese apps sind [unten](available-settings.md#additional-information-about-removing-built-in-apps).|
 |Microsoft Store für Education-apps|Blockieren Sie Benutzer am Installieren von apps von Microsoft Store Education.|
 |Erfordert Microsoft Store für Education-apps aus dem privaten Informationsspeicher|Nur gestatten Sie Benutzern, apps aus dem Microsoft Store Education installieren, die Ihre Organisation eingerichtet wurde.|
 |Vertrauenswürdige apps|Definieren Sie, ob der Benutzer vertrauenswürdigen apps von Microsoft signiert installieren können.|
 |Nicht vertrauenswürdige apps|Definieren Sie, ob die Benutzer installieren können, nicht signierte apps oder apps, die von externen Quellen, die nicht von Microsoft als vertrauenswürdig eingestuft werden signiert.|
 |Automatische app-updates|Blockieren von Microsoft Store für Education-apps automatisch aktualisiert.|
 |Freigegebenes app-Daten zwischen den Benutzern|Können Sie mehrere Benutzer gemeinsam genutzte Geräte app-Daten gemeinsam nutzen.|
+
+## <a name="additional-information-about-removing-built-in-apps"></a>Weitere Informationen zum Entfernen von integrierten apps
+
+Diese Einstellung wird automatisch aktiviert, wenn die "Optimieren Geräte für die gemeinsame Verwendung" Einstellung aktiviert ist. Die folgenden apps werden vollständig von den Computern der Benutzer entfernt, wenn diese Einstellung aktiviert ist:
+
+* 3DBuilder
+* Bing-Weather
+* Desktop-App-Installer
+* Erste Schritte
+* Microsoft Office-Hub
+* Solitär-Auflistung
+* Eine Verbindung herstellen.
+* Windows-Feedback-Hub
+* Xbox
+* Groove Musik
+<!--* Zune Video-->
+* Mail
+* Kalender
 
 ## <a name="sign-in-settings"></a>Anmelden settings
 
@@ -198,7 +217,7 @@ Viele der Informationen in den **wozu** Spalte kann auch in der Intune für Educ
 
 |Einstellung|Funktion|
 |---|---|
-|E-Mail-Einstellungen konfigurieren|Wählen Sie, ob Sie e-Mail-Einstellungen für diese Gruppe konfigurieren möchten. Diese Einstellungen werden auf der Windows-10-Mail-app angewendet. Wenn Sie nicht **konfigurieren** diese Einstellung keine der anderen e-Mail-Einstellungen in dieser Tabelle wird für Sie verfügbar werden.|
+|Konfigurieren von E-Mail-Einstellungen|Wählen Sie, ob Sie e-Mail-Einstellungen für diese Gruppe konfigurieren möchten. Diese Einstellungen werden auf der Windows-10-Mail-app angewendet. Wenn Sie nicht **konfigurieren** diese Einstellung keine der anderen e-Mail-Einstellungen in dieser Tabelle wird für Sie verfügbar werden.|
 |Account name|SSL wird dies auf ihren Geräten sehen können.|
 |E-Mail-server|Geben Sie den Namen des Servers, auf dem Ihre e-Mail-Adresse gehostet werden soll.|
 |Benutzername|Wählen Sie das Attribut, mit dem Intune wird aus Azure Active Directory, beim Anwenden der Einstellungen für Benutzer um e-Mail-Profilen.|
