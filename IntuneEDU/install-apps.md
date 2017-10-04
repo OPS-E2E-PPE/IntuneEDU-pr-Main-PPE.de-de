@@ -13,11 +13,11 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 635a5cc7-7dd4-45f9-9b18-3eddb76d0c74
 searchScope: IntuneEDU
-ms.openlocfilehash: da398a88d1038d4e43a1a1e7a5df37018ac3f3a6
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: e837baebeeb13c2c5a005d1d516a75be956ebd5b
+ms.sourcegitcommit: b0dfdfb2061e99fcad72ac5071e7508bfb035b49
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 10/02/2017
 ---
 # <a name="how-do-i-install-apps-with-intune-for-education"></a>Wie installiere ich apps mit Intune Education?
 
@@ -28,7 +28,7 @@ Intune Education bietet mehrere Möglichkeiten, apps auf Geräte zu installieren
 ##  <a name="install-apps-for-groups"></a>Installieren von apps für Gruppen
 Diese Methode können Sie eine Gruppe auswählen und Installieren einer oder mehrerer apps für die Geräte in dieser Gruppe.
 
-1. In der [Intune für die Bildung Portal](https://intuneeducation.portal.azure.com), wählen Sie > **Gruppen verwalten** So öffnen die **Gruppen** Blatt.
+1. In der [Intune für die Bildung Portal](https://intuneeducation.portal.azure.com), wählen Sie **Gruppen verwalten** So öffnen die **Gruppen** Blatt.
 2. Wählen Sie die Gruppe, zu der Sie apps bereitstellen möchten.
 3. Wählen Sie **Apps** in der Taskleiste am oberen Rand, um eine Liste der verfügbaren apps anzuzeigen.  
 4. Wählen Sie die apps, die zu dieser Gruppe bereitgestellt werden soll. Sie können mehrere apps auswählen.
