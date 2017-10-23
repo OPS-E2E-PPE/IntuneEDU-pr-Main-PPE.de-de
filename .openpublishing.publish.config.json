@@ -23,8 +23,8 @@
     "CnE_UE_Bugfixing_ENG@moravia.com"
   ],
   "branches_to_filter": [
-    "master",
-    "live"
+    "live",
+    "master-sxs"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEDU.de-de",
   "git_repository_branch_open_to_public_contributors": "live",
@@ -32,7 +32,6 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
   "contribution_branch_mappings": {
-    "master-sxs": "master",
     "live-sxs": "live"
   },
   "dependent_repositories": [
