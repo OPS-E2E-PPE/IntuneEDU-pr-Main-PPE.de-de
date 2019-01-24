@@ -32,7 +32,6 @@
     },
     "fileMetadata": {},
     "template": [],
-    "dest": "IntuneEDU",
-    "markdownEngineName": "markdig"
+    "dest": "IntuneEDU"
   }
 }
