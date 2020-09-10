@@ -30,13 +30,19 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {
-    "main-sxs": "main",
-    "live-sxs": "live"
+    "live-sxs": "live",
+    "main-sxs": "main"
   },
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
       "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
+      "branch": "master",
+      "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_themes.pdf",
+      "url": "https://github.com/Microsoft/templates.docs.msft.pdf",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -57,5 +63,6 @@
   },
   "need_generate_pdf_url_template": true,
   "targets": {},
-  "need_generate_pdf": false
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
