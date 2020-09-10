@@ -39,6 +39,15 @@
       "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "_repo.en-us",
+      "url": "https://github.com/OPS-E2E-PPE/IntuneEDU-pr-Main-PPE",
+      "branch": "live",
+      "branch_mapping": {
+        "live": "live",
+        "main": "main"
+      }
     }
   ],
   "branch_target_mapping": {
