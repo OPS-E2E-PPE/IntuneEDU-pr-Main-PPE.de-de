@@ -2,9 +2,9 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
-      "docset_name": "IntuneEDU-pr-Main-PPE",
+      "docset_name": "e2eppes-IntuneEDU",
       "build_source_folder": "IntuneEDU",
-      "build_output_subfolder": "IntuneEDU-pr-Main-PPE",
+      "build_output_subfolder": "e2eppes-IntuneEDU",
       "locale": "de-de",
       "monikers": [],
       "moniker_ranges": [],
@@ -21,8 +21,9 @@
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [
-    "main",
-    "live"
+    "master",
+    "live",
+    "main"
   ],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/IntuneEDU.de-de",
   "git_repository_branch_open_to_public_contributors": "live",
@@ -30,8 +31,9 @@
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {
-    "main-sxs": "main",
-    "live-sxs": "live"
+    "master-sxs": "master",
+    "live-sxs": "live",
+    "main-sxs": "main"
   },
   "dependent_repositories": [
     {
@@ -39,15 +41,6 @@
       "url": "https://github.com/Microsoft/templates.docs.msft.de-de",
       "branch": "master",
       "branch_mapping": {}
-    },
-    {
-      "path_to_root": "_repo.en-us",
-      "url": "https://github.com/OPS-E2E-PPE/IntuneEDU-pr-Main-PPE",
-      "branch": "live",
-      "branch_mapping": {
-        "live": "live",
-        "main": "main"
-      }
     }
   ],
   "branch_target_mapping": {
@@ -57,5 +50,9 @@
   },
   "need_generate_pdf_url_template": true,
   "targets": {},
-  "need_generate_pdf": false
+  "docs_build_engine": {
+    "name": "docfx_v2"
+  },
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
