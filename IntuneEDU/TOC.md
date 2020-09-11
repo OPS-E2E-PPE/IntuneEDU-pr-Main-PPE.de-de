@@ -1,34 +1,48 @@
-# [Was ist Intune for Education?](what-is-intune-for-education.md)
-## [Neuerungen](whats-new-in-edu.md)
-
-# [Erste Schritte](get-started-with-intune-edu.md)
-## [Was ist Express-Konfiguration?](what-is-express-configuration.md)
-## [Was ist School Data Sync?](what-is-school-data-sync.md)
-## [Was sind Mandanten?](what-are-tenants.md)
-
-## Einstellungen
-### [Was sind Einstellungen?](what-are-settings.md)
-### [Was ist Einstellungsvererbung?](settings-inheritance.md)
-
-# Planung
-## [Was sind Registrierungsmanager?](what-are-enrollment-managers.md)
-## [Wie werden Geräte registriert?](how-should-i-enroll-devices.md)
-
-# Vorgehensweise:
-## Verwenden von Gruppen
-### [Was sind Gruppen?](what-are-groups.md)
-## Verwenden von Einstellungen
-### [Wie verwalte ich Einstellungen?](how-do-i-manage-settings.md)
-### [Welche Einstellungen sind verfügbar?](available-settings.md)
-### [Was sind Zertifikate?](what-are-certificates.md)
-## Verwenden von Apps
-### [Wie füge ich Apps hinzu?](how-to-add-apps.md)
-### [Wie rufe ich Store-Apps ab?](acquire-store-apps.md)
-### [Wo befinden sich meine Store-Apps?](where-are-my-apps.md)
-### [Wie installiere ich Apps auf Geräten?](install-apps.md)
-### [Wie verwalte ich Office?](install-office.md)
-## Verwenden von Geräten
-### [Wie füge ich Geräte hinzu?](how-do-i-add-devices.md)
-### [Wie verwende ich Take a Test-Profile?](take-a-test-profiles.md)
-## Verwenden von Berichten
-### [Was sind Berichte?](what-are-reports.md)
+# [Übersicht](what-is-intune-for-education.md)
+# [Features in der Entwicklung](in-development.md)
+# [Neues in Intune for Education](whats-new-in-edu.md)
+# Konzepte in Intune for Education
+## [Navigieren im Dashboard](navigate-my-dashboard-edu.md)
+## [Importieren von Daten mit der Synchronisierung von Schul-/Unidaten](what-is-school-data-sync.md)
+## [Allgemeine Mandanteneinstellungen](edu-tenant-general-settings.md)
+## [Geräteregistrierung](how-should-I-enroll-devices.md)
+## [Gruppeneinstellungen](about-group-settings-edu.md)
+## [Einstellungsvererbung](settings-inheritance.md)
+# [Express-Konfiguration](express-configuration-intune-edu.md)
+## [Express-Konfigurationseinstellungen für Windows 10](edu-express-config-settings-windows.md)
+## [Express-Konfigurationseinstellungen für iOS](edu-express-config-settings-ios.md)
+# Hinzufügen von Windows 10-Geräten
+## [Registrierung von Windows 10-Geräten](add-devices-windows.md)
+## [Hinzufügen von Geräteregistrierungs-Managern](add-enrollment-managers.md)
+## [Voreinstellungen von Windows 10-Gerätegruppen](all-devices-group-presets-windows-edu.md)
+## [Autopilot-zurücksetzen](autopilot-reset.md)
+# Hinzufügen von iOS-Geräten
+## [Einrichten der iOS-Geräteverwaltung](setup-ios-device-management.md)
+## [Registrieren von iOS-Geräten](add-devices-ios-edu.md)
+## [Erneuern der iOS-Zertifikate und -Token](renew-ios-certificate-token.md)
+# Verwalten von Gruppen
+## [Erstellen von Gruppen](create-groups.md)
+## [Bearbeitung von Gruppen](edit-groups-intune-for-edu.md)
+## [Löschen von Gruppen](delete-group-intune-for-education.md)
+## [Zuweisen von Gruppenadministratoren](group-admin-delegate.md)
+## [Problembehandlung für Gruppen](troubleshoot-groups-intune-for-edu.md)
+# Verwalten von Apps
+## Hinzufügen von Apps zu Intune for Education
+### [Office 365](install-office.md)
+### [Microsoft Store für Bildungseinrichtungen](acquire-store-apps.md)
+### [Beliebte Apps für Schule und Uni](add-popular-apps-edu.md)
+### [Kostenlose Apps aus dem iOS-App Store](add-apps-ios.md)
+### [VPP-Apps für iOS](add-vpp-apps-ios.md)
+### [Desktop-App](add-desktop-apps-edu.md)
+### [Web-Apps](add-web-apps-edu.md)
+## [Das Zuweisen von Apps zu Gruppen](assign-apps.md)
+## [Löschen von Apps](delete-apps-intune-edu.md)
+# Verwalten von Einstellungen
+## [Hinzufügen von WLAN-Profilen](add-wi-fi-profile.md)
+## [Hinzufügen von Take a Test-Profilen](take-a-test-profiles.md) 
+## Anzeigen aller Geräteeinstellungen
+### [Einstellungen für ein Windows-Gerät](all-edu-settings-windows.md)
+### [Einstellungen für ein iOS-Gerät](all-edu-settings-ios.md) 
+# Überwachung und Problembehandlung
+## [Verwalten von Geräten mit Remoteaktionen](edu-device-remote-actions.md)
+## [Anzeigen und Herunterladen von Berichten](what-are-reports.md)
